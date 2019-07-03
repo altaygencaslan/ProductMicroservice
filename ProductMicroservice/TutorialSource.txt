@@ -1,1 +1,4 @@
 ﻿https://www.codeproject.com/Articles/1276639/Microservice-using-ASP-NET-Core
+ 
+ another project:
+ https://docs.microsoft.com/tr-tr/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/data-driven-crud-microservice
